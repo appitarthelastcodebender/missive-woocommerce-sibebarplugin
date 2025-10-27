@@ -72,6 +72,9 @@ Upload the edited file to `/wp-content/plugins/` on your WordPress site.
 - WordPress Admin → Plugins → Add New → Upload Plugin
 - cPanel File Manager
 
+**ZIP for regular Upload**
+Just compress to ZIP and use the wordpress admin method
+
 ### Step 5: Activate Plugin
 
 WordPress Admin → Plugins → Activate "Tortelen Missive Widget (Standalone)"
