@@ -32,7 +32,7 @@ Download `missive-widget-standalone-template.php` from this repository.
 Open the file and find line 21:
 
 ```php
-define('TORTELEN_WIDGET_TOKEN', 'your-secret-token-here');
+define('XXX_WIDGET_TOKEN', 'your-secret-token-here');
 ```
 
 Replace `'your-secret-token-here'` with a secure random token.
